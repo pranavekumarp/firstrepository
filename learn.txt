@@ -7,4 +7,9 @@ learned to create repository
 
 second commit
 
+
+hello
+hai 
+bye
+
 trying branch merge
